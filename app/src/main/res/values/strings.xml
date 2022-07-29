@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">incomplete_project</string>
+
+    <string name="login_guest">LOGIN</string>
+    <string name="forgot_pas">Forgot Password ?</string>
+    <string name="ask_signup"><![CDATA[Sign Up for Swagatam]]></string>
+    <string name="do_sign">SIGN UP</string>
+    <string name="prompt_fullname">Full name</string>
+    <string name="prompt_nation">Nationality</string>
+    <string name="prompt_email">Email Id</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="total_projects">Total Projects</string>
+    <string name="required">Requirement</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Others</string>
+    <string name="nation">Nationality</string>
+    <string name="already_sign">Already Registered?</string>
+    <string name="question"> Want to know</string>
+    <string name="ques">about the Hosting ?</string>
+    <string name="text">Enter into World..</string>
+    <string name="filter">More Filters</string>
+    <string name="heading">Take a Glance</string>
+    <string name="pre_head">Cultural spots</string>
+    <string name="location">Location</string>
+    <string name="languages">Languages Known</string>
+    <string name="pts">Points Earned</string>
+    <string name="preference">my prefernces</string>
+    <string name="educ">Education</string>
+    <string name="user_name">User Name</string>
+    <string name="hoby">Hobbies</string>
+    <string name="pts2">Points:</string>
+    <string name="available">Available</string>
+    <string name="messege">messege</string>
+    <string name="about">About me</string>
+    <string name="request">Request to stay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commun">Community</string>
+    <string name="leader">Leaders</string>
+    <string name="pro">Profile</string>
+</resources>
