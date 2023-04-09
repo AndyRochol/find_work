@@ -11,10 +11,11 @@
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
-    <string name="total_projects">Total Projects</string>
+    <string name="total_projects">Total Requests</string>
     <string name="required">Requirement</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
+    <string name="request">Request</string>
     <string name="other">Others</string>
     <string name="nation">Nationality</string>
     <string name="already_sign">Already Registered?</string>
@@ -29,13 +30,13 @@
     <string name="pts">Points Earned</string>
     <string name="preference">my prefernces</string>
     <string name="educ">Education</string>
-    <string name="user_name">User Name</string>
+    <string name="user_name">UserName</string>
     <string name="hoby">Hobbies</string>
     <string name="pts2">Points:</string>
     <string name="available">Available</string>
     <string name="messege">messege</string>
     <string name="about">About me</string>
-    <string name="request">Request to stay</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="commun">Community</string>

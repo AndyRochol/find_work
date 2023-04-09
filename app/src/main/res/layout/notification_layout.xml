@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="10dp"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/requester_img"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/prf" />
+
+
+
+        <TextView
+            android:id="@+id/requester_name"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="17dp"
+            android:textColor="@color/colorwhite"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/requester_img"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/fix_text"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="17dp"
+            android:hint="@string/user_name"
+            android:text="is requesting you for"
+            android:textColor="@color/colorwhite"
+            app:layout_constraintStart_toEndOf="@+id/requester_name"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/post_image"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="29dp"
+            android:layout_margin="10dp"
+            app:layout_constraintStart_toEndOf="@id/fix_text"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/prf" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
