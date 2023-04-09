@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".sign_up">
 
-
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
@@ -35,13 +34,12 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.427">
 
-            <com.google.android.material.textfield.TextInputEditText
+            <EditText
                 android:id="@+id/sign_ema"
                 android:layout_width="280dp"
                 android:layout_height="50dp"
-                android:background="@color/white"
-                android:textColorHint="#3C3737"
                 android:textSize="15sp"
+                android:inputType="textEmailAddress"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.503"
@@ -69,7 +67,6 @@
                 android:id="@+id/fuul_name"
                 android:layout_width="280dp"
                 android:layout_height="50dp"
-                android:background="@color/white"
                 android:textColorHint="#3C3737"
                 android:textSize="15sp"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -86,22 +83,19 @@
             android:layout_height="55dp"
             android:layout_marginTop="14dp"
             android:hint="@string/prompt_password"
+            app:endIconMode="password_toggle"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.503"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.427"
-            app:passwordToggleEnabled="true">
+            app:layout_constraintVertical_bias="0.427">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/sign_pass"
                 android:layout_width="280dp"
                 android:layout_height="50dp"
-                android:background="@color/white"
-                android:textColorHint="#3C3737"
                 android:textSize="15sp"
-
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.496"
@@ -115,7 +109,7 @@
             android:id="@+id/text_nation"
             android:layout_width="280dp"
             android:layout_height="55dp"
-            android:layout_marginTop="114dp"
+            android:layout_marginTop="115dp"
             android:hint="@string/prompt_nation"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -128,8 +122,6 @@
                 android:id="@+id/nationality"
                 android:layout_width="280dp"
                 android:layout_height="50dp"
-                android:background="@color/white"
-                android:textColorHint="#3C3737"
                 android:textSize="15sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.61"
