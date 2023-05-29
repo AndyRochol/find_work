@@ -1,23 +1,29 @@
 # find_work
 # Home Activity
-![home_page](https://user-images.githubusercontent.com/108896518/234397783-a03cb72a-aee8-4002-bf37-3af4e150996b.jpeg)
+![home_page]![community_page](https://github.com/AndyRochol/find_work/assets/108896518/2b551fee-124a-4c07-bd6d-309fdbd850a2)
+
 
 # Search Activity
-![search_list](https://user-images.githubusercontent.com/108896518/234397812-30785b42-e58a-4fe5-84e2-482046e289fe.jpeg)
-![search_list_enter](https://user-images.githubusercontent.com/108896518/234397839-5112eedf-e24e-42f7-a718-08043a1e4a55.jpeg)
+![search_list]![search_page](https://github.com/AndyRochol/find_work/assets/108896518/bfcad62b-7957-4ef1-8d1b-9149fce1a957)
+![search_list_enter]![search_list_2](https://github.com/AndyRochol/find_work/assets/108896518/cde27dbe-b09d-4a6a-9ad6-2f2b1e367a28)
+
 
 
 # Notification Activity
-![Notifications](https://user-images.githubusercontent.com/108896518/234397882-56495df9-8073-4ab0-bded-c7a1844b5a57.jpeg)
+![Notifications]![notifi_page](https://github.com/AndyRochol/find_work/assets/108896518/1dcd12fe-9aee-4640-9db6-4a6a82eb9e1e)
+
 
 # Profile
 
-![profile_app](https://user-images.githubusercontent.com/108896518/234398349-aecc9011-432f-45c7-b1ec-6ded33a25e77.jpeg)
+![profile_app]![profi_page](https://github.com/AndyRochol/find_work/assets/108896518/5c180179-eed8-4192-8873-fb3ec8157ea4)
+
 
 # Request_List
 
 
-![request_list](https://user-images.githubusercontent.com/108896518/234398517-bbd3daae-f999-4c9f-a422-183197b1b509.jpeg)
+![request_list]![request_page](https://github.com/AndyRochol/find_work/assets/108896518/3154ce6c-b9d6-4deb-9780-a6f5c2c77b4f)
+
 
 # Requirement_status
-![requirement](https://user-images.githubusercontent.com/108896518/234398581-39ad6678-e7e4-4959-8e0d-01eb7253edd4.jpeg)
+![requirement]![require_page](https://github.com/AndyRochol/find_work/assets/108896518/c7fceee3-77bc-4606-89ce-05ece737e112)
+
